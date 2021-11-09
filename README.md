@@ -291,7 +291,7 @@ Allocates (with malloc) and returns a new string, result of the concatenation of
 
 ## [ft_strtrim](libft/ft_strtrim.c)
 
-`char *ft_strjoin(char const *s1, char const *s2)`
+`char	*ft_strtrim(char const *s1, char const *set)`
 
 Description | Param. #1 | Param. #2 | Return Value
 :-----------: | :-----------: | :-----------: | :-----------:
